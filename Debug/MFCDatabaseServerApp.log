@@ -1,0 +1,16 @@
+﻿Build started 17-05-2017 15:53:58.
+     1>Project "C:\Users\CK\Documents\Visual Studio 2012\MFCDatabaseServerApp\MFCDatabaseServerApp\MFCDatabaseServerApp.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCDatabaseServerApp.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt MFCDatabaseServerAppDlg.cpp
+         MFCDatabaseServerAppDlg.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\CK\Documents\Visual Studio 2012\MFCDatabaseServerApp\Debug\MFCDatabaseServerApp.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\CK\Documents\Visual Studio 2012\MFCDatabaseServerApp\Debug\MFCDatabaseServerApp.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\CK\Documents\Visual Studio 2012\MFCDatabaseServerApp\Debug\MFCDatabaseServerApp.lib" /MACHINE:X86 Debug\MFCDatabaseServerApp.res
+         Debug\MFCDatabaseServerApp.obj
+         Debug\MFCDatabaseServerAppDlg.obj
+         Debug\stdafx.obj
+         MFCDatabaseServerApp.vcxproj -> C:\Users\CK\Documents\Visual Studio 2012\MFCDatabaseServerApp\Debug\MFCDatabaseServerApp.exe
+     1>Done Building Project "C:\Users\CK\Documents\Visual Studio 2012\MFCDatabaseServerApp\MFCDatabaseServerApp\MFCDatabaseServerApp.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.39
